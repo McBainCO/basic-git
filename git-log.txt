@@ -1,3 +1,15 @@
+commit c570bffe953743ca071f765432a28a9ae28a51b4
+Author: Graham McBaingrahammcbain@gmail.comgrahammcbain@gmail.comgit config --global user.email your_email@example.comgit config --global user.name Graham <“grahammcbain@gmail.comgit config --global user.emailgrahammcbain@gmail.comgit config --global user.email “grahammcbain@gmail.com>
+Date:   Thu Jun 12 14:41:08 2014 -0600
+
+    added oh no text
+
+commit 3907408c5b90ffcab947df11be566a6decdd5f50
+Author: Bobby Blackstock <bobbyblackstock@gmail.com>
+Date:   Thu Jun 12 14:23:14 2014 -0600
+
+    git log added to git-log.txt
+
 commit 7c26f5268014e5904650bfc874c143de75dd002e
 Author: Bobby Blackstock <bobbyblackstock@gmail.com>
 Date:   Thu Jun 12 14:17:28 2014 -0600
